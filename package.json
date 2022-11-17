@@ -1,0 +1,22 @@
+{
+  "name": "voicetotext",
+  "version": "1.0.0",
+  "description": "voice to text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliursahin/voiceTotext.git"
+  },
+  "author": "Sahin",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.6"
+  },
+  "bugs": {
+    "url": "https://github.com/oliursahin/voiceTotext/issues"
+  },
+  "homepage": "https://github.com/oliursahin/voiceTotext#readme"
+}
